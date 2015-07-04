@@ -1,0 +1,7 @@
+# selenium-evaluation
+
+对某全使用js加载数据的教务系统实施的浏览器自动登录并教务评估
+scrapy只能读取源码所以几乎不起用处
+要求使用firefox浏览器并安装有scrapy，selenium
+可用powershell进入并按照scrapy方法运行
+scrapy crawl webdriver2
